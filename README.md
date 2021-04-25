@@ -1,7 +1,7 @@
 ## Employee attrition analysis and prediction using deep learning
 
 
-![Python](https://img.shields.io/badge/python-v3.7-blue) ![Tensorflow](https://img.shields.io/badge/Tensorflow-2.4.1-blueviolet) ![Pandas](https://img.shields.io/badge/Pandas-v1.1.5-brightgreen) ![Seaborn](https://img.shields.io/badge/Seaborn-v0.11.1-red) ![matplotlib](https://img.shields.io/badge/matplotlib-v3.2.2-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.22.2.post1-orange)
+![Python](https://img.shields.io/badge/python-v3.7-blue) ![Tensorflow](https://img.shields.io/badge/Tensorflow-2.4.1-blueviolet) ![Pandas](https://img.shields.io/badge/Pandas-v1.1.5-brightgreen) ![Seaborn](https://img.shields.io/badge/Seaborn-v0.11.1-red) ![Matplotlib](https://img.shields.io/badge/matplotlib-v3.2.2-blue) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-0.22.2.post1-orange)
 
 **Introduction**
 
