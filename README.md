@@ -1,6 +1,19 @@
-# classification-with-imbalanced-data
-This notebook builds a deep learning model to predict employee attrition.
-The first part is an exploratory data analysis, where I analyse the factors that are most responsible for employees leaving a company. 
-In the second part I use keras to build a binary classifier and try different workarounds to solve class imbalance problem. 
-You can run this notebook in colab, simply add the datafile to your directory and change it int the pd.read_csv cell
+# Introduction
+In this case study we will be analyzing Employee Attrition Data and will try to build a binary classifier using keras, We will be using the IBM HR Analytics Employee Attrition & Performance Dataset published on [Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset).
+
+In the accompanying notebook : 
+1. Setup
+2. Exploratory Data Analysis of major factors leading to emplyee attrition
+  * Descriptive Statistics
+  * Correlation Analysis
+3. Preprocessing
+  * One-Hot Encoding of Categorical features
+  * Split into train/test/validation 
+  * Scale the numerical features
+4. Binary Classification with keras and imbalanced classes
+  * Using class weight
+  * Using output neuron initial bias
+  * Oversampling
+5. Conclusion 
+  * Comparing all three methods in terms of weighted average of f1-score, recall and precision. 
 
