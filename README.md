@@ -23,4 +23,3 @@ In the accompanying [notebook](Attrition_prediction,_dealing_with_class_imbalanc
    * Oversampling
 5. Conclusion 
    * Comparing all three methods in terms of weighted average of f1-score, recall and precision. 
-
