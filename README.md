@@ -17,7 +17,7 @@ In the accompanying [notebook](Attrition_prediction,_dealing_with_class_imbalanc
    * One-Hot Encoding of Categorical features
    * Split into train/test/validation 
    * Scale the numerical features
-4. Binary Classification with keras and imbalanced classes
+4. Binary Classification with keras and dealing with imbalanced classes
    * Using class weight
    * Using output neuron initial bias
    * Oversampling
