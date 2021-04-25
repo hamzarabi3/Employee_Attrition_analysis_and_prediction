@@ -2,7 +2,7 @@
 
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-![Python](https://img.shields.io/badge/python-v3.7-orange)
+![Python](https://img.shields.io/badge/python-v3.7-blue) ![Tensorflow](https://img.shields.io/badge/Tensorflow-2.4.1-blueviolet) ![Pandas](https://img.shields.io/badge/Pandas-v1.1.5-brightgreen)
 
 **Introduction**
 
